@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Dependency.Inversion.Principle/obj
+/Interface.Segregation.Principle/obj
+/Liskov.Substitution.Principle/bin/Debug
+/Liskov.Substitution.Principle/obj
+/Open.Closed.Principle/obj
+/Single.Responsibility.Principle/obj
