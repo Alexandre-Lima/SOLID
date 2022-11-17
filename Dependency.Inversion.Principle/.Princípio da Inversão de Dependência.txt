@@ -1,5 +1,0 @@
-﻿Princípio da Inversão de Dependência — Dependa de abstrações e não de implementações.
-
-1. Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender da abstração.
-
-2. Abstrações não devem depender de detalhes. Detalhes devem depender de abstrações.
