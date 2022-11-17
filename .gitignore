@@ -9,3 +9,7 @@
 /Liskov.Substitution.Principle/obj
 /Open.Closed.Principle/obj
 /Single.Responsibility.Principle/obj
+/Single.Responsibility.Principle/bin/Debug/net6.0
+/Open.Closed.Principle/bin/Debug/net6.0
+/Interface.Segregation.Principle/bin/Debug/net6.0
+/Dependency.Inversion.Principle/bin/Debug/net6.0
