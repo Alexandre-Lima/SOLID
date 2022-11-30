@@ -1,5 +1,9 @@
 ﻿namespace Open.Closed.Principle.Bad
 {
+
+    /// <summary>
+    /// Objetos ou entidades devem estar abertos para extensão, mas fechados para modificação
+    /// </summary>
     public class AccountDebit
     {
         public string Debit(decimal valor, string conta, AccountType tipoConta)

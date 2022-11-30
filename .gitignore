@@ -24,3 +24,9 @@
 /src/Interface.Segregation.Principle/bin/Debug/net6.0
 /src/Liskov.Substitution.Principle/bin/Debug/net6.0
 /src/Open.Closed.Principle/bin/Debug/net6.0
+/test/SOLID.UnitTests/bin/Debug/net7.0
+/src/Single.Responsibility.Principle/bin/Debug/net7.0
+/src/Open.Closed.Principle/bin/Debug/net7.0
+/src/Liskov.Substitution.Principle/bin/Debug/net7.0
+/src/Interface.Segregation.Principle/bin/Debug/net7.0
+/src/Dependency.Inversion.Principle/bin/Debug/net7.0

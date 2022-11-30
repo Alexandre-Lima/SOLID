@@ -2,6 +2,9 @@
 
 namespace Dependency.Inversion.Principle.Bad
 {
+    /// <summary>
+    /// Princípio da Inversão de Dependência — Dependa de abstrações e não de implementações.
+    /// </summary>
     public class PersonRepository
     {
         SqlServerConnection _connection;

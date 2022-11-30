@@ -2,6 +2,9 @@
 
 namespace Liskov.Substitution.Principle.Bad
 {
+    /// <summary>
+    /// Princípio da substituição de Liskov — Uma classe derivada deve ser substituível por sua classe base.
+    /// </summary>
     public class WinampMediaPlayer : MediaPlayer
     {
         /// <summary>

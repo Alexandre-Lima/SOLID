@@ -2,6 +2,10 @@
 
 namespace Interface.Segregation.Principle.Bad
 {
+    /// <summary>
+    /// Princípio da Segregação da Interface — Uma classe não deve ser forçada a implementar interfaces 
+    /// e métodos que não irão utilizar.
+    /// </summary>
     public class WinampMediaPlayer : IMediaPlayer
     {     
         public void PlayAudio()

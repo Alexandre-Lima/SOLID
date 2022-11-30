@@ -3,6 +3,10 @@ using System.Net.Mail;
 
 namespace Single.Responsibility.Principle.Bad
 {
+
+    /// <summary>
+    /// Princípio da Responsabilidade Única — Uma classe deve ter um, e somente um, motivo para mudar.
+    /// </summary>
     public class UserService
     {
         readonly SmtpClient _smtpClient;
@@ -18,7 +22,7 @@ namespace Single.Responsibility.Principle.Bad
         /// <param name="email"></param>
         /// <param name="password"></param>
         /// <exception cref="ValidationException"></exception>
-        public void Register(string email, string password)
+        public void AddUser(string email, string password)
         {
             if (!ValidateEmail(email))
                 throw new ValidationException("Email is not an email");
