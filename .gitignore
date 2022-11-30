@@ -13,3 +13,14 @@
 /Open.Closed.Principle/bin/Debug/net6.0
 /Interface.Segregation.Principle/bin/Debug/net6.0
 /Dependency.Inversion.Principle/bin/Debug/net6.0
+/test/SOLID.UnitTests/obj
+/src/Single.Responsibility.Principle/obj
+/src/Single.Responsibility.Principle/bin/Debug/net6.0
+/src/Open.Closed.Principle/obj
+/src/Liskov.Substitution.Principle/obj
+/src/Interface.Segregation.Principle/obj
+/src/Dependency.Inversion.Principle/obj
+/src/Dependency.Inversion.Principle/bin/Debug/net6.0
+/src/Interface.Segregation.Principle/bin/Debug/net6.0
+/src/Liskov.Substitution.Principle/bin/Debug/net6.0
+/src/Open.Closed.Principle/bin/Debug/net6.0
